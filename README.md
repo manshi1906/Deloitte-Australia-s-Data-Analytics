@@ -22,6 +22,8 @@ Create a new sheet with a new bar chart called “Down Time per Device Type”.
 Create a Dashboard with the 2 previous sheets and set the first chart to be used as a filter (selecting a factory in the first chart shows only the down time of the machines in this factory in the second chart).
 Select the factory with the most down time (click on its bar), make a screenshot of the dashboard and upload it as a submission for this task.
 Please find a step-by-step Task Guide pdf attached in the resources below to help you out.
+![task1](https://github.com/user-attachments/assets/98801d44-e031-4b11-ad2e-0891d6e9f879)
+
 # Task 2: Forensic technology
 Here is your task
 We have processed all data on employee compensation and generated an Excel file (Equality Table.xlsx, available in the Resources) containing 3 columns:
