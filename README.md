@@ -23,22 +23,12 @@ Create a Dashboard with the 2 previous sheets and set the first chart to be used
 Select the factory with the most down time (click on its bar), make a screenshot of the dashboard and upload it as a submission for this task.
 Please find a step-by-step Task Guide pdf attached in the resources below to help you out.
 # Task 2: Forensic technology
-
-1
-
-2
-
-3
-
-4
-
-5
 Here is your task
 We have processed all data on employee compensation and generated an Excel file (Equality Table.xlsx, available in the Resources) containing 3 columns:
 
-Factory
-Job Role
-Equality Score (integer; ranging between -100 and +100; 0 is ideal)
+1.Factory
+2.Job Role
+3. Equality Score (integer; ranging between -100 and +100; 0 is ideal)
 Here is your task:
 
 Create a 4th column (Equality class), classifying the equality score into 3 types:
